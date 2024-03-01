@@ -1,6 +1,3 @@
-# PingSweep-Java
-Este programa de "ping sweep" foi desenvolvido em Java, utilizando conceitos como ArrayLists e objetos, além da implementação de classes. A utilização de ArrayLists permitiu uma estrutura dinâmica para armazenar e manipular os endereços IP da rede durante a varredura.
-
 # Ping Sweep em Java
 
 Este programa Java é um "ping sweep" desenvolvido para verificar a atividade dos hosts em uma rede. Ele percorre uma faixa de endereços IP e verifica quais hosts estão acessíveis na rede.
@@ -21,6 +18,9 @@ Este programa Java é um "ping sweep" desenvolvido para verificar a atividade do
      java PingSweep
      ```
    - O programa solicitará que você insira o endereço IP inicial. Insira o endereço IP que deseja iniciar a varredura.
+  
+   - ![em verde => Endereço de IP](PinSweep\imagens\host.png)
+
 
 3. **Resultado:**
    - O programa percorrerá os endereços IP na faixa especificada e exibirá quais estão acessíveis e quais estão inacessíveis.
