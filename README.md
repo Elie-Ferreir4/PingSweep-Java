@@ -19,7 +19,7 @@ Este programa Java é um "ping sweep" desenvolvido para verificar a atividade do
      ```
    - O programa solicitará que você insira o endereço IP inicial. Insira o endereço IP que deseja iniciar a varredura.
   
-   - ![em verde => Endereço de IP](PingSweep-Java/PinSweep/imagens/hosts.png)
+   - ![em verde => Endereço de IP](PinSweep/imagens/hosts.png)
 
 
 3. **Resultado:**
