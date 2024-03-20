@@ -1,6 +1,6 @@
 # Ping Sweep em Java
 
-Este programa Java é um "ping sweep" desenvolvido para verificar a atividade dos hosts em uma rede. Ele percorre uma faixa de endereços IP e verifica quais hosts estão acessíveis na rede.
+Este software desenvolvido em Java é um "ping sweep" desenvolvido para verificar a atividade dos hosts em uma rede. Ele percorre uma faixa de endereços IP e verifica quais hosts estão acessíveis na rede.
 
 ## Como usar
 
